@@ -1,6 +1,9 @@
 # YotiBox
 Platform for creating virtual addresses using Yoti, for use by people who have no traditional address or identification.
 
+## In brief
+YotiBox gives people without fixed addresses a unique virtual address linked to their Yoti ID, allowing them to receive key mail deliveries that help them get back on their feet.
+
 ## Problem that YotiBox solves.
 Many of the services that we take for granted require a fixed address for registration or delivery – job applications, registering with a GP, applying for a bank account, and so on. If people do not have access to a fixed address, they often end up in a vicious circle of not being able to get back on to their feet bceause the things that they require all depend on having an address.
 
