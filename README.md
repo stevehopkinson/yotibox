@@ -1,6 +1,15 @@
 # YotiBox
 Platform for creating virtual addresses using Yoti, for use by people who have no traditional address or identification.
 
+## Problem that YotiBox solves.
+Many of the services that we take for granted require a fixed address for registration or delivery – job applications, registering with a GP, applying for a bank account, and so on. If people do not have access to a fixed address, they often end up in a vicious circle of not being able to get back on to their feet bceause the things that they require all depend on having an address.
+
+There is no good solution to this problem. Collecting postage from a business usually requires people to present photo ID in the form of a driving licence or passport – something that many people without fixed addresses don't have access to. The alternative is to rely on informal arrangements – having post delivered to a church, or a friendly neighbour, or a business. But these solutions lack security and depend on such institutions agreeing to help.
+
+YotiBox would provide people with the facility to register a 'YotiBox' – a virtual address linked to their Yoti ID. Users can then use that address for deliveries, receive notifications when a delivery is made to their YotiBox, and use Yoti to confirm their ID and collect parcels from the collection point.
+
+Each virtual 'address' is uniquely linked to the user's Yoti ID, so staff at the collection point simple need to register that a delivery has been made to the specified address, and the user will instantly be notified.
+
 ## Wireframes
 ![Customer front-end](https://github.com/stevehopkinson/yotibox/blob/master/wireframes/YotiBox%20-%20Front%20End.png?raw=true)
 
